@@ -13,5 +13,6 @@ class Spa {
         list.remove(list.size() - 1);
 
         System.out.println(list);
+        System.out.println(list);
     }
 }
